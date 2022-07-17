@@ -5,3 +5,31 @@ giovanna
 
 
 Mussum Ipsum, cacilds vidis litro abertis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.Atirei o pau no gatis, per gatis num morreus.Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.A ordem dos tratores não altera o pão duris.
+
+
+[["Pukyongosaurus","Aegyptosaurus","Paranthodon","Panphagia","Unenlagia","Morelladon","Velocisaurus","Blancocerosaurus","Fukuititan","Belodon","Jinyunpelta","Campylodoniscus","Garudimimus","Tazoudasaurus","Caihong","Baalsaurus","Kaatedocus","Kaijutitan","Albisaurus","Pachyspondylus","Platypelta","Chialingosaurus","Pachysaurus","Koreaceratops","Umarsaurus","Liubangosaurus","Spinosuchus","Frenguellisaurus","Scelidosaurus","Eoabelisaurus"],["Kinnareemimus","Protoceratops","Latirhinus","Ojoraptorsaurus","Ekrixinatosaurus","Brontomerus","Datonglong","Sanpasaurus","Sinopliosaurus","Pachycephalosaurus","Skorpiovenator","Arkharavia","Siamosaurus","Streptospondylus","Amurosaurus","Muyelensaurus","Jobaria","Airakoraptor","Brontoraptor","Chirostenotes","Balaur","Sefapanosaurus","Iuticosaurus","Aragosaurus","Galeamopus","Saurolophus","Anchiceratops","Erectopus","Dystylosaurus","Ornithosuchus"],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+["Koutalisaurus","Sacisaurus","Zhongyuansaurus","Peltosaurus","Magnapaulia","Caenagnathus","Wulatelong","Camptonotus","Crichtonsaurus","Ampelosaurus","Suuwassea","Avimimus","Kulindapteryx","Fusuisaurus","Bolong","Zanclodon","Zanabazar","Eousdryosaurus","Yaleosaurus","Talarurus","Ichthyovenator","Caulodon","Astrodon","Gongxianosaurus","Diceratops","Clarencea","Caihong","Scolosaurus","Jeholosaurus","Taveirosaurus"]]
+API
